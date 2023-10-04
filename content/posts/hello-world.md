@@ -3,8 +3,8 @@ title = 'Hello World'
 date = 2023-10-04T12:45:14+02:00
 description = 'Esta es la descripción del post'
 draft = false
-tags = ['helloworld']
-categories = ['new']
+tags = ['default']
+ShowReadingTime = true
 +++
 
 Comenzando aprendizaje con Hugo!

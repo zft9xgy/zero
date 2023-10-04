@@ -6,7 +6,16 @@
     <description>Recent content in post on Zero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 04 Oct 2022 12:45:14 +0200</lastBuildDate><atom:link href="https://zft9xgy.github.io/zero/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Nov 2022 12:45:14 +0200</lastBuildDate><atom:link href="https://zft9xgy.github.io/zero/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post futurista</title>
+      <link>https://zft9xgy.github.io/zero/posts/post-3/</link>
+      <pubDate>Fri, 04 Nov 2022 12:45:14 +0200</pubDate>
+      
+      <guid>https://zft9xgy.github.io/zero/posts/post-3/</guid>
+      <description>Descripcion</description>
+    </item>
+    
     <item>
       <title>Post de 2022</title>
       <link>https://zft9xgy.github.io/zero/posts/otro-slug-diferente/</link>
