@@ -1,7 +1,6 @@
 +++
 title = 'Startd'
 date = 2023-10-04T16:19:47+02:00
-draft = true
 tags = ['offtopic']
 +++
 
