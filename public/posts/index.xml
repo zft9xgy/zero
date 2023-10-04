@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Zero</title>
-    <link>https://zft9xgy.github.io/zero/</link>
-    <description>Recent content on Zero</description>
+    <title>Posts on Zero</title>
+    <link>https://zft9xgy.github.io/zero/posts/</link>
+    <description>Recent content in Posts on Zero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 04 Oct 2023 12:45:14 +0200</lastBuildDate><atom:link href="https://zft9xgy.github.io/zero/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 12:45:14 +0200</lastBuildDate><atom:link href="https://zft9xgy.github.io/zero/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://zft9xgy.github.io/zero/posts/hello-world/</link>
@@ -24,7 +24,6 @@
       <guid>https://zft9xgy.github.io/zero/posts/otro-slug-diferente/</guid>
       <description>Esta es la descripción del post</description>
     </item>
-    
     
   </channel>
 </rss>

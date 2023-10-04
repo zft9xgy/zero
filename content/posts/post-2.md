@@ -1,15 +1,16 @@
 +++
-title = 'Hello World'
-date = 2023-10-04T12:45:14+02:00
+title = 'Post de 2022'
+date = 2022-10-04T12:45:14+02:00
 description = 'Esta es la descripción del post'
 draft = false
-tags = ['helloworld']
+slug = 'otro-slug-diferente'
+tags = ['post']
 categories = ['new']
 +++
 
 Comenzando aprendizaje con Hugo!
 
-## Hello world! This is an h2
+## Post de 2022
 
 This is **bold** text, and this is _emphasized_ text.
 
