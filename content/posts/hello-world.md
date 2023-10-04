@@ -1,7 +1,7 @@
 +++
 title = 'Hello World'
 date = 2023-10-04T12:45:14+02:00
-draft = true
+draft = false
 +++
 
 Comenzando aprendizaje con Hugo!
