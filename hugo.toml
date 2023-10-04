@@ -1,0 +1,4 @@
+baseURL = 'https://zft9xgy.github.io/zero'
+languageCode = 'es-es'
+title = 'Zero'
+theme = 'PaperMod'
