@@ -1,22 +1,39 @@
-baseURL = 'https://zft9xgy.github.io/zero'
-fontbody = 'Droid Sans'
-fontcode = 'Fira Mono'
-googlefonts = ["Droid Sans", "Fira Mono"]
-languageCode = 'es-es'
-theme = 'PaperMod'
-title = 'Zero'
+baseURL = 'https://zft9xgy.github.io/zero' 
+enableRobotsTXT = true 
+languageCode = 'es-es' 
+paginate = 5 #numero a partir del cual empieza la paginacion
+theme = 'PaperMod' 
+title = 'Zero' 
 
 [menu]
 [[menu.main]]
 name = 'tags'
 pageRef = '/tags'
-weight = 20
+weight = 10
 [[menu.main]]
 name = 'all posts'
 pageRef = '/all-posts'
+weight = 20
+[[menu.main]]
+name = 'search'
+pageRef = '/search'
 weight = 30
 
 [params]
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowPostNavLinks = false
+TocOpen = false
+author = "zft9xgy"
+defaultTheme = "light"
+env = "production"
+fontbody = 'Droid Sans'
+fontcode = 'Fira Mono'
+googlefonts = ["Droid Sans", "Fira Mono"]
+hideDescriptionInList = false
+hideMeta = false
+showToc = true
+
 [params.homeInfoParams]
 Content = "El que empieza un camino, tiene el 50% hecho."
 Title = "Vamos a ello."
@@ -32,3 +49,6 @@ url = 'zft9xgy@proton.me'
 [[params.socialIcons]]
 name = 'linkedin'
 url = 'https://www.linkedin.com/in/rafael-cosquiere/'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
