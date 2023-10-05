@@ -2,7 +2,7 @@
 title = 'Generar Ssh Keys Para Github'
 description = 'Como generar una key ssh para poner conectar con github desde el ordenar.'
 date = 2023-10-05T10:55:01+02:00
-draft = true
+draft = false
 tags = ['man','git']
 ShowReadingTime = true
 +++
