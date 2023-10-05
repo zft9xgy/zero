@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "c4fbcab7671e9480",
+    "type": "split",
+    "children": [
+      {
+        "id": "935a81aa52c209c8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91a6bfc906f986c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0768e9ac637dc82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddf58648cc9b628e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "be3f48b866879634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5769cf9aa6f2b13",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207
+  },
+  "right": {
+    "id": "7a9d8a405ee64566",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7bf4410b174f649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5acd8649e3edf5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "107115ce9f90b5a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2cd204735bd69641",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "935a81aa52c209c8",
+  "lastOpenFiles": [
+    "BECOSAN/Proyectos.md",
+    "Untitled.md",
+    "Reports/Report 17.md",
+    "pinturas properla.md",
+    "4-22 - 3 Problemas habituales en los pavimentos industriales - linkedin.md",
+    "Aux.md",
+    "Linkedin.md",
+    "njord/purificadores de aire.md",
+    "Obsidian Basics.md",
+    "IMPRESO/Impressum.md"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "promptDelete": false,
+  "fileSortOrder": "byModifiedTime",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 71
+  },
+  "showInlineTitle": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "97 Attachments",
+  "vimMode": false,
+  "newFileLocation": "current",
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true
+}

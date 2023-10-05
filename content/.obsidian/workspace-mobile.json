@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "c4fbcab7671e9480",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3fcd14f49085d3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "935a81aa52c209c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 zft9xgy/42 webdev/01 The Odin Project/Motivation And Mindset.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "734b66646a9fa1b6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "502420ad34dec156",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "13a528ba37160742",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "63f851e9ad6bb6ed",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e0f6143a64e6f5c7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "41b763913513f457",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "10aac27fdcb9f9a6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bc0261211dccb4e6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "03 zft9xgy/42 webdev/01 The Odin Project/Motivation And Mindset.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "207ccb500ad50673",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "03 zft9xgy/42 webdev/01 The Odin Project/Motivation And Mindset.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "463ece1dedb6643d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "03 zft9xgy/42 webdev/01 The Odin Project/Motivation And Mindset.md"
+          }
+        }
+      },
+      {
+        "id": "142fda1ec5c8ba49",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "935a81aa52c209c8",
+  "lastOpenFiles": [
+    "03 zft9xgy/42 webdev/01 The Odin Project/01 odin project.md",
+    "04 Daily notes/Untitled 2.md",
+    "04 Daily notes/23072918.md",
+    "04 Daily notes/23072917.md",
+    "04 Daily notes/23073024.md",
+    "03 zft9xgy/07 hugolaroche/pianista acompañante andalucia.md",
+    "03 zft9xgy/43 hacking/00 hacking.md",
+    "04 Daily notes/23072921.md",
+    "01 BECO TREAT/01 BECOSAN/99 ARCHIVE/01 PROJECTS/02 Busqueda personal/99 on-boarding raphael.md",
+    "01 BECO TREAT/01 BECOSAN/01 PROJECTS/10 Social LinkedIn/01 socialgpt.md",
+    "04 Daily notes/23073026.md",
+    "01 BECO TREAT/01 BECOSAN/02 Meetings/Y23W30 mkt meeting.md",
+    "01 BECO TREAT/01 BECOSAN/99 ARCHIVE/01 PROJECTS/02 Busqueda personal/02 Meetings/W29 - Meeting Coosto.md",
+    "04 Daily notes/23072920.md",
+    "04 Daily notes/23072919.md",
+    "03 zft9xgy/00 Misc/my-seelenheilung.ch.md",
+    "03 zft9xgy/06 ECALFOR/web master musical.md",
+    "02 Personal/Croacia 2023/Planning Croacia 2023.md",
+    "01 BECO TREAT/01 BECOSAN/04 Social media/00 clasificacion de material social media.md",
+    "01 BECO TREAT/01 BECOSAN/01 PROJECTS/04 Essentials/02 line marking.md",
+    "01 BECO TREAT/01 BECOSAN/01 PROJECTS/10 Social LinkedIn/01 Audits/Tracking followers.md",
+    "04 Daily notes/23072705.md",
+    "97 Attachments/Pasted image 20230705122447.png",
+    "01 BECO TREAT/01 BECOSAN/01 PROJECTS/02 Busqueda personal/02 propuesta Raphael Damain.md",
+    "01 BECO TREAT/01 BECOSAN/01 PROJECTS/04 Essentials/01 Profilgate/01 profilate.md",
+    "97 Attachments/Captura de pantalla 2023-07-05 a las 12.53.36.png",
+    "04 Daily notes/23072704.md",
+    "01 BECO TREAT/01 BECOSAN/01 PROJECTS/04 Essentials/03 Meetings/02 estructura carpeta drive.html",
+    "97 Attachments/Captura de pantalla 2023-07-05 a las 12.52.57.png",
+    "01 BECO TREAT/01 BECOSAN/01 PROJECTS/04 Essentials/03 Meetings/02 estructura carpeta drive.md",
+    "97 Attachments/Captura de pantalla 2023-06-29 a las 10.16.44.png",
+    "97 Attachments/Captura de pantalla 2023-06-12 a las 10.36.59.png",
+    "97 Attachments/Becosan SEO Proposal.pdf",
+    "97 Attachments/Pasted Image 20230519092305_824.png",
+    "01 BECO TREAT/02 proPERLA/Old Notion/Attachment/Captura_de_pantalla_2023-01-20_a_las_19.28.35.png",
+    "01 BECO TREAT/02 proPERLA/Old Notion/Attachment/Pintura_Fachadas_exteriores.docx",
+    "01 BECO TREAT/02 proPERLA/Old Notion/Attachment/Pintura_repelente_al_agua.docx",
+    "01 BECO TREAT/02 proPERLA/Old Notion/Attachment/Screenshot_2022-03-10_at_12.49.48.png",
+    "01 BECO TREAT/01 BECOSAN/91 Old Notion/Attachments/Customer_Journey_-_Buyer_principal_BECOSAN.xlsx",
+    "03 zft9xgy/ECALFOR/99 Attachment/1618896514680.docx",
+    "03 zft9xgy/ECALFOR/99 Attachment/Presupuesto_ECALFO_design.indd",
+    "03 zft9xgy/ECALFOR/99 Attachment/Propuesta_ECALFOR_-_Soundwavemarketing.pdf",
+    "03 zft9xgy/ECALFOR/99 Attachment/Gonzalo_-_Presupuesto_UGR.pdf",
+    "03 zft9xgy/ECALFOR/99 Attachment/Presupuesto_ECALFOR_-_7_de_junio_de_2021.pdf",
+    "03 zft9xgy/ECALFOR/99 Attachment/Screenshot_2021-04-25_at_12.26.45.png",
+    "03 zft9xgy/01 BIGSEO/attachments/Screenshot_2022-06-28_at_23.00.56.png"
+  ]
+}

@@ -25,8 +25,6 @@ git config --global color.ui auto
 git config --global pull.rebase false
 ```
 
-
-
 ## creando ssh key
 
 ```bash
@@ -50,14 +48,11 @@ ls $/.ssh/
 Si le habeis dado a todo que si, aqui teneis la llave para copiar y pegar.  En mi caso la he llamado 'github_key'.
 
 
-
 Copiamos toda la llave, algo com esto:
 
 ```bash
 ssh-ed25519 AAAAC3NzaC1lZDIchurromuygrandeZHAEx6spnBoO7zeuCF+NWb0BI vuestro@email.com
 ```
-
-
 ## configurando la clave en github
 
 En github.com, vais a vuestro perfil os vais a ajustes/settings y en la barra lateral izquierda os vais a SSH and GPG keys.
@@ -91,9 +86,7 @@ Typeamos 'yes'  para confirmar la conexion. y si todo va bien deberiamos de ver 
 
 Basicamente cuando generas una clave estas generando dos archivos, o dos contraseñas, una publica y una privada. A github le estas dando la publica para que el compruebe contigo y tu puedas resolver con tu clave privada. Si esto sucede, tienes acceso. 
 
-
 En caso de que existan errores o puedes revisar las guias que enlace en el articulo o escribir en los comentarios. 
-
 
 ## errores comunes
 

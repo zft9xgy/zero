@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "search",
+      "path": "search.md"
+    },
+    {
+      "basename": "generar-ssh-keys-para-github",
+      "path": "posts/generar-ssh-keys-para-github.md"
+    },
+    {
+      "basename": "hello-world",
+      "path": "posts/hello-world.md"
+    },
+    {
+      "basename": "startd",
+      "path": "posts/startd.md"
+    },
+    {
+      "basename": "generar ssh keys para github",
+      "path": "66 Others/generar ssh keys para github.md"
+    },
+    {
+      "basename": "ricing",
+      "path": "66 Others/ricing.md"
+    },
+    {
+      "basename": "lab - Windows - WinRM",
+      "path": "05 Labs/ejptv2/lab - Windows - WinRM.md"
+    },
+    {
+      "basename": "L1-Windows vulnerabilities",
+      "path": "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L1-Windows vulnerabilities.md"
+    },
+    {
+      "basename": "lab - Windows - IIS Server WebDav Metasploit",
+      "path": "05 Labs/ejptv2/lab - Windows - IIS Server WebDav Metasploit.md"
+    },
+    {
+      "basename": "nmap",
+      "path": "42 Tools/nmap.md"
+    },
+    {
+      "basename": "lab - Windows - Insecure RDP Service",
+      "path": "05 Labs/ejptv2/lab - Windows - Insecure RDP Service.md"
+    },
+    {
+      "basename": "lab - Windows - SMB Server PSexec",
+      "path": "05 Labs/ejptv2/lab - Windows - SMB Server PSexec.md"
+    },
+    {
+      "basename": "smb",
+      "path": "43 Services/smb.md"
+    },
+    {
+      "basename": "00-ejptv2-index",
+      "path": "00 ejPTv2/00-ejptv2-index.md"
+    },
+    {
+      "basename": "lab - Windows - IIS Server DAVTest",
+      "path": "05 Labs/ejptv2/lab - Windows - IIS Server DAVTest.md"
+    },
+    {
+      "basename": "00-services",
+      "path": "43 Services/00-services.md"
+    },
+    {
+      "basename": "msfvenom",
+      "path": "42 Tools/msfvenom.md"
+    },
+    {
+      "basename": "davtest",
+      "path": "42 Tools/davtest.md"
+    },
+    {
+      "basename": "cadaver",
+      "path": "42 Tools/cadaver.md"
+    },
+    {
+      "basename": "L2-Windows privileges escalation",
+      "path": "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L2-Windows privileges escalation.md"
+    },
+    {
+      "basename": "INE-Host-and-Network-Penetration-Testing-System-Host-Based-Attacks",
+      "path": "98 Resources/S3 pdfs/INE-Host-and-Network-Penetration-Testing-System-Host-Based-Attacks.pdf"
+    },
+    {
+      "basename": "eJPT Main",
+      "path": "eJPT Main.md"
+    },
+    {
+      "basename": "00-hack4u-index",
+      "path": "01 hack4u/00-hack4u-index.md"
+    },
+    {
+      "basename": "Hacking roadmap",
+      "path": "Hacking roadmap.md"
+    },
+    {
+      "basename": "L8-Linux Credential Dumping",
+      "path": "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L8-Linux Credential Dumping.md"
+    },
+    {
+      "basename": "L3-Windows File System Vulnerabilities",
+      "path": "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L3-Windows File System Vulnerabilities.md"
+    },
+    {
+      "basename": "L4-Windows Credential Dumping",
+      "path": "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L4-Windows Credential Dumping.md"
+    },
+    {
+      "basename": "L5-Linux Vulnerabilities",
+      "path": "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L5-Linux Vulnerabilities.md"
+    },
+    {
+      "basename": "L6-Exploiting Linux Vulnerabilities",
+      "path": "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L6-Exploiting Linux Vulnerabilities.md"
+    },
+    {
+      "basename": "L7-Linux Privilege Escalation",
+      "path": "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L7-Linux Privilege Escalation.md"
+    },
+    {
+      "basename": "Preguntas por resolver",
+      "path": "98 Resources/Preguntas por resolver.md"
+    },
+    {
+      "basename": "metasploit",
+      "path": "42 Tools/metasploit.md"
+    },
+    {
+      "basename": "Seccion 3 - Reconocimiento",
+      "path": "01 hack4u/Seccion 3 - Reconocimiento.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "01 hack4u/Docker.md"
+    },
+    {
+      "basename": "01-osint",
+      "path": "42 Tools/01-osint.md"
+    },
+    {
+      "basename": "rpcclient",
+      "path": "42 Tools/rpcclient.md"
+    },
+    {
+      "basename": "arp-scan",
+      "path": "42 Tools/arp-scan.md"
+    },
+    {
+      "basename": "00-tools",
+      "path": "42 Tools/00-tools.md"
+    },
+    {
+      "basename": "enum4linux",
+      "path": "42 Tools/enum4linux.md"
+    },
+    {
+      "basename": "nmbmap",
+      "path": "42 Tools/nmbmap.md"
+    },
+    {
+      "basename": "smbclient",
+      "path": "42 Tools/smbclient.md"
+    },
+    {
+      "basename": "Session 11 - Vulnerability Assessment",
+      "path": "00 ejPTv2/S1 Assessment methodologies/Session 11 - Vulnerability Assessment.md"
+    },
+    {
+      "basename": "Session 6 - new module start",
+      "path": "00 ejPTv2/S1 Assessment methodologies/Session 6 - new module start.md"
+    },
+    {
+      "basename": "Session 8",
+      "path": "00 ejPTv2/S1 Assessment methodologies/Session 8.md"
+    },
+    {
+      "basename": "Session 7 - from arch",
+      "path": "00 ejPTv2/S1 Assessment methodologies/Session 7 - from arch.md"
+    },
+    {
+      "basename": "Session 11 - Samba Recon",
+      "path": "00 ejPTv2/S2 Host and network auditing/Session 11 - Samba Recon.md"
+    },
+    {
+      "basename": "Session-10-from-arch",
+      "path": "00 ejPTv2/S2 Host and network auditing/Session-10-from-arch.md"
+    },
+    {
+      "basename": "Session 5 - first lab - nmap",
+      "path": "00 ejPTv2/S1 Assessment methodologies/Session 5 - first lab - nmap.md"
+    },
+    {
+      "basename": "Session 4 - nmap",
+      "path": "00 ejPTv2/S1 Assessment methodologies/Session 4 - nmap.md"
+    },
+    {
+      "basename": "Session 3 - dns recon",
+      "path": "00 ejPTv2/S1 Assessment methodologies/Session 3 - dns recon.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

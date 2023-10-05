@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "c4fbcab7671e9480",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef2feeafdd07f55d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1232f5996e95a412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "search.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91a6bfc906f986c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0768e9ac637dc82",
+        "type": "tabs",
+        "dimension": 78.26086956521739,
+        "children": [
+          {
+            "id": "ddf58648cc9b628e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "be3f48b866879634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb91b57a6fc64b96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0d243f70a0451760",
+        "type": "tabs",
+        "dimension": 21.73913043478261,
+        "children": [
+          {
+            "id": "c3f0b336c913ffdc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7a9d8a405ee64566",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7bf4410b174f649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56ed4dff4e8a676f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "search.md"
+              }
+            }
+          },
+          {
+            "id": "f5acd8649e3edf5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "search.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dd8e56eedfd9f755",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "search.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "107115ce9f90b5a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "708e339635240d39",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true,
+      "templates:Insert template": true,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "1232f5996e95a412",
+  "lastOpenFiles": [
+    "posts/generar-ssh-keys-para-github.md",
+    "posts/hello-world.md",
+    "posts/startd.md",
+    "66 Others/ricing.md",
+    "05 Labs/ejptv2/lab - Windows - WinRM.md",
+    "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L1-Windows vulnerabilities.md",
+    "66 Others/generar ssh keys para github.md",
+    "66 Others/rip rcrif.md",
+    "05 Labs/ejptv2/lab - Windows - IIS Server WebDav Metasploit.md",
+    "42 Tools/nmap.md",
+    "05 Labs/ejptv2/lab - Windows - Insecure RDP Service.md",
+    "05 Labs/ejptv2/lab - Windows - SMB Server PSexec.md",
+    "43 Services/smb.md",
+    "00 ejPTv2/00-ejptv2-index.md",
+    "05 Labs/ejptv2/lab - Windows - IIS Server DAVTest.md",
+    "43 Services/00-services.md",
+    "42 Tools/msfvenom.md",
+    "42 Tools/davtest.md",
+    "42 Tools/cadaver.md",
+    "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L2-Windows privileges escalation.md",
+    "05 Labs/ejptv2",
+    "98 Resources/S3 pdfs/INE-Host-and-Network-Penetration-Testing-System-Host-Based-Attacks.pdf",
+    "eJPT Main.md",
+    "66 Others",
+    "43 Services/Untitled",
+    "01 hack4u/00-hack4u-index.md",
+    "Hacking roadmap.md",
+    "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L8-Linux Credential Dumping.md",
+    "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L3-Windows File System Vulnerabilities.md",
+    "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L4-Windows Credential Dumping.md",
+    "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks",
+    "98 Resources/S2-Footprinting and Scanning Course Files/Windows Recon_ Zenmap.pdf",
+    "98 Resources/S2-Footprinting and Scanning Course Files/Scan the Server 3.pdf",
+    "98 Resources/S2-Footprinting and Scanning Course Files/Scan the Server 2.pdf",
+    "98 Resources/S2-Footprinting and Scanning Course Files/Scan the Server 1.pdf",
+    "98 Resources/S2-Footprinting and Scanning Course Files/Port Scanning.pdf",
+    "97 Attachments/Captura de pantalla 2023-08-11 a las 11.49.33.png",
+    "97 Attachments/Captura de pantalla 2023-06-12 a las 10.36.59.png",
+    "97 Attachments/1_UuG-Za8-T_8PObk3Rl88nw.png",
+    "97 Attachments/Captura de pantalla 2023-07-05 a las 12.52.57.png",
+    "97 Attachments/Captura de pantalla 2023-07-05 a las 12.53.36.png",
+    "97 Attachments/Pasted image 20230705122447.png",
+    "97 Attachments/Captura de pantalla 2023-06-29 a las 10.16.44.png",
+    "97 Attachments/Captura de pantalla 2023-06-19 a las 15.58.53.png",
+    "01 BECO TREAT/02 proPERLA/Old Notion/Attachment/Screenshot_2022-03-10_at_12.49.48.png",
+    "01 BECO TREAT/02 proPERLA/Old Notion/Attachment/Captura_de_pantalla_2023-01-20_a_las_19.28.35.png",
+    "Canva.canvas",
+    "Untitled 1.canvas"
+  ]
+}
