@@ -10,6 +10,7 @@
 #
 # se debe ejecutar desde el directoria base donde se encuentra hugo
 
+
 rm -rf ./public
 hugo
 git add .

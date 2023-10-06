@@ -23,6 +23,7 @@ weight = 30
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 ShowPostNavLinks = false
+comments = true
 TocOpen = false
 author = "zft9xgy"
 defaultTheme = "auto"
