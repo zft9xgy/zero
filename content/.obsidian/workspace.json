@@ -168,12 +168,12 @@
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": true,
       "templates:Insert template": true,
+      "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "graph:Open graph view": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "1232f5996e95a412",
+  "active": "c3f0b336c913ffdc",
   "lastOpenFiles": [
     "posts/generar-ssh-keys-para-github.md",
     "posts/hello-world.md",

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>man on Zero</title>
     <link>https://zft9xgy.github.io/zero/tags/man/</link>
@@ -13,7 +13,10 @@
       <pubDate>Thu, 05 Oct 2023 10:55:01 +0200</pubDate>
       
       <guid>https://zft9xgy.github.io/zero/posts/generar-ssh-keys-para-github/</guid>
-      <description>Como generar una key ssh para poner conectar con github desde el ordenar.</description>
+      <description>Como generar una key ssh para poner conectar con github desde el ordenar.
+A continuación voy a redactar una guia a modo de recordatoria personal, para cuando tenga que hacerlo, pero aqui os deja la guia completa dodne lo aprendí Setting up git - The Odin Project
+instalar git y configurarlo Instalar git, parece obvio pero muchas veces no esta instalada
+git config --global user.name &amp;#34;Your Name&amp;#34; git config --global user.</description>
     </item>
     
   </channel>
