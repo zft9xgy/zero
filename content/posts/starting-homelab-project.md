@@ -6,9 +6,7 @@ tags = ['homelab']
 ShowReadingTime = true
 +++
 
-> Nuevo proyecto: homelab
-
-## En primer lugar, ¿que es un homelab?
+## En primer lugar, ¿que es un homelab?
 
 Un homelab es un entorno de laboratorio tecnológico que una persona crea en su hogar, compuesto por hardware y software, con el propósito de aprender, experimentar y desarrollar habilidades en áreas como la informática, redes y seguridad. Puede incluir servidores, dispositivos de red y otros componentes configurados para la práctica y la experimentación, lo que lo convierte en una herramienta valiosa para el aprendizaje y la preparación en tecnología de la información.
 
@@ -16,7 +14,7 @@ Un homelab es un entorno de laboratorio tecnológico que una persona crea en su 
 
 Revisando videos en youtube y canales de homelab por internet, podemos encontrar que hay autenticas locuras y gente que tiene montado autenticos servidores profesionales.
 
-![Homelabs](./images/ejemplo-homelab-google.png)
+![Ejemplo de homelabs](/img/ejemplo-homelab-google.png)
 
 En mi caso, no es que no quiera tanto, pero ni tengo especio ni tengo esa necesidad, al menos por ahora.
 
