@@ -5,9 +5,6 @@ paginate = 5 #numero a partir del cual empieza la paginacion
 theme = 'PaperMod' 
 title = 'Zero' 
 
-[build]
-ignoreFiles = ["obsidian-template/post-template-toml.md"]
-
 [menu]
 [[menu.main]]
 name = 'tags'
