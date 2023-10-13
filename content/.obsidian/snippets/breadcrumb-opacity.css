@@ -1,5 +1,0 @@
-/* This will set breadcumb elements on header visible all time instead of animation to opacity */
-.view-header-title-container{
-  opacity: 0.5;
-  font-weight: 300;
-}
