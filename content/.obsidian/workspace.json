@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef2feeafdd07f55d",
+        "id": "95debbe262c97ed4",
         "type": "tabs",
         "children": [
           {
-            "id": "1232f5996e95a412",
+            "id": "97bbc664affd8c19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "search.md",
+                "file": "posts/Post from obsidian.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "search.md"
+                "file": "posts/Post from obsidian.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "search.md",
+                "file": "posts/Post from obsidian.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "search.md",
+                "file": "posts/Post from obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +173,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c3f0b336c913ffdc",
+  "active": "ddf58648cc9b628e",
   "lastOpenFiles": [
     "posts/generar-ssh-keys-para-github.md",
+    "posts/Post from obsidian.md",
+    "obsidian-template/post-template-toml.md",
     "posts/hello-world.md",
+    "obsidian-template/Untitled",
+    "obsidian-template",
+    "search.md",
+    "all-posts.md",
+    "tags/_index.md",
     "posts/startd.md",
     "66 Others/ricing.md",
     "05 Labs/ejptv2/lab - Windows - WinRM.md",
@@ -200,17 +207,10 @@
     "eJPT Main.md",
     "66 Others",
     "43 Services/Untitled",
-    "01 hack4u/00-hack4u-index.md",
-    "Hacking roadmap.md",
-    "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L8-Linux Credential Dumping.md",
-    "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L3-Windows File System Vulnerabilities.md",
-    "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks/L4-Windows Credential Dumping.md",
     "00 ejPTv2/S3 Host and network PT/C1 System-Host based attacks",
     "98 Resources/S2-Footprinting and Scanning Course Files/Windows Recon_ Zenmap.pdf",
     "98 Resources/S2-Footprinting and Scanning Course Files/Scan the Server 3.pdf",
     "98 Resources/S2-Footprinting and Scanning Course Files/Scan the Server 2.pdf",
-    "98 Resources/S2-Footprinting and Scanning Course Files/Scan the Server 1.pdf",
-    "98 Resources/S2-Footprinting and Scanning Course Files/Port Scanning.pdf",
     "97 Attachments/Captura de pantalla 2023-08-11 a las 11.49.33.png",
     "97 Attachments/Captura de pantalla 2023-06-12 a las 10.36.59.png",
     "97 Attachments/1_UuG-Za8-T_8PObk3Rl88nw.png",

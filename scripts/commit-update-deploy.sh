@@ -10,7 +10,7 @@
 #
 # se debe ejecutar desde el directoria base donde se encuentra hugo
 
-
+cd $HOME/shared-across/zero
 rm -rf ./public
 hugo
 git add .

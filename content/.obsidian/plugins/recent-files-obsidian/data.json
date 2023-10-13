@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "search",
-      "path": "search.md"
+      "basename": "Post from obsidian",
+      "path": "posts/Post from obsidian.md"
     },
     {
       "basename": "generar-ssh-keys-para-github",
       "path": "posts/generar-ssh-keys-para-github.md"
     },
     {
+      "basename": "post-template-toml",
+      "path": "obsidian-template/post-template-toml.md"
+    },
+    {
       "basename": "hello-world",
       "path": "posts/hello-world.md"
+    },
+    {
+      "basename": "search",
+      "path": "search.md"
+    },
+    {
+      "basename": "all-posts",
+      "path": "all-posts.md"
+    },
+    {
+      "basename": "_index",
+      "path": "tags/_index.md"
     },
     {
       "basename": "startd",
@@ -183,22 +199,6 @@
     {
       "basename": "Session 11 - Samba Recon",
       "path": "00 ejPTv2/S2 Host and network auditing/Session 11 - Samba Recon.md"
-    },
-    {
-      "basename": "Session-10-from-arch",
-      "path": "00 ejPTv2/S2 Host and network auditing/Session-10-from-arch.md"
-    },
-    {
-      "basename": "Session 5 - first lab - nmap",
-      "path": "00 ejPTv2/S1 Assessment methodologies/Session 5 - first lab - nmap.md"
-    },
-    {
-      "basename": "Session 4 - nmap",
-      "path": "00 ejPTv2/S1 Assessment methodologies/Session 4 - nmap.md"
-    },
-    {
-      "basename": "Session 3 - dns recon",
-      "path": "00 ejPTv2/S1 Assessment methodologies/Session 3 - dns recon.md"
     }
   ],
   "omittedPaths": [],

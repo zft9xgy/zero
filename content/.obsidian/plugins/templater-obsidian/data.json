@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "99 Templates",
+  "templates_folder": "obsidian-template",
   "templates_pairs": [
     [
       "",
@@ -15,15 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "00 Sessions",
-      "template": "99 Templates/Session template.md"
-    },
-    {
-      "folder": "/",
-      "template": "99 Templates/Default template.md"
+      "folder": "posts",
+      "template": "obsidian-template/post-template-toml.md"
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [],
   "startup_templates": [],
   "enable_ribbon_icon": true
