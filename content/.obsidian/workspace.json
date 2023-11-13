@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "40a7c60f5c119f4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "28d93767a1e6d2a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d11d4498110dfe3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/generar-ssh-keys-para-github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "781b0f41691fc7db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/mi-guia-instalacion-arch-linux-y-hyprland.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cb7d6057d4b48cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e1ace07b694880a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9fb7c4c072718ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c16be3631b600e6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2de21678eff53fb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5f91f273a7b3bf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f653dbe0982be71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0ee74a8df603625",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/mi-guia-instalacion-arch-linux-y-hyprland.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "741dd46c5baaa294",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/mi-guia-instalacion-arch-linux-y-hyprland.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "feaa915f383f5d4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14dc5379dcf7d364",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/mi-guia-instalacion-arch-linux-y-hyprland.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "781b0f41691fc7db",
+  "lastOpenFiles": [
+    "posts/mi-guia-instalacion-arch-linux-y-hyprland.md",
+    "posts/generar-ssh-keys-para-github.md",
+    "posts/hello-world.md",
+    "posts/startd.md",
+    "posts/starting-homelab-project.md",
+    "posts/mi-guia-instalacion-arch-linux.md"
+  ]
+}
